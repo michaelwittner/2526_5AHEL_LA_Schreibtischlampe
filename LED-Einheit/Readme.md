@@ -8,3 +8,12 @@ Ansteuerung 16 LEDs parallel der bestellten LEDs, siehe LEDSerie1.00, mit 5Ohm V
 
 ### LEDSerie1.00
 ![Breadboard Aufbau 1](images/LEDSerie1.00.png)
+
+
+## 03.10.2025
+Schaltung mit CD4017 um verschiedene zwischen Ausgängen schalten zu können, verschiedene Stromstärken, siehe Bild CD4017_1.00
+
+## CD4017_1.00
+![Breadboard Aufbau 1](images/CD4017_1.00.png)
+
+## 10.10.2025

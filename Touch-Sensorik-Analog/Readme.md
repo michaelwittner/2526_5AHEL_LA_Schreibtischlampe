@@ -26,3 +26,6 @@ Testschaltung1 mit LED und FLipFlop \
 Zugentlastung vom HTL-Steyr Netzteil, Bohrung Pairleitner bis Freitag \
 Sicherungen: 5x20 https://at.rs-online.com/web/p/feinsicherungen/0563722?cm_mmc=AT-PPC-DS3A-_-google-_-DSA_AT_DE_Sicherungen+und+Leitungsschutzschalter_Index-_-Feinsicherungen%7C+Products-_-DYNAMIC+SEARCH+ADS&matchtype=&dsa-1654573426999&gclsrc=aw.ds&gad_source=1&gad_campaignid=17128883418&gbraid=0AAAAADkeWNNnLizClw80jrE_dvMhcoJ9_&gclid=CjwKCAjw89jGBhB0EiwA2o1On2qC14-NwMBfNiLWUObro9sYEJim8IOrced61eHoK35X3hhKKwx0OBoCeNgQAvD_BwE \
 Sicherungshalter: https://at.rs-online.com/web/p/sicherungshalter/1769047?gb=s \
+
+## 03.10.2025
+Schaltung mit CD4017B -> Durch Clock verschiedene Ausgänge schalten
