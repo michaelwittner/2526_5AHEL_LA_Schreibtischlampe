@@ -17,9 +17,9 @@ Buchse: Schurter IEC-Steckverbinder C8 250 V, Gerade, Snap-In, Stecker, 2.5A, St
 
 #### Sicherungshalter:
 RS:
-https://at.rs-online.com/web/p/sicherungshalter/2375259?cm_mmc=AT-PLA-DS3A-_-google-_-CSS_AT_DE_Pmax_Test-_--_-2375259&matchtype=&&gclsrc=aw.ds&gad_source=1&gad_campaignid=20298205821&gbraid=0AAAAADkeWNNVlQIv6luQNfW-9oEKOhcqK&gclid=Cj0KCQjw3aLHBhDTARIsAIRij582qfjgslcdfP3DjPyIMtyVTkf3t6P4wSuSAQbVUwuU7ELXbdX1ekcaAim_EALw_wcB
+1) https://at.rs-online.com/web/p/sicherungshalter/2375259?cm_mmc=AT-PLA-DS3A-_-google-_-CSS_AT_DE_Pmax_Test-_--_-2375259&matchtype=&&gclsrc=aw.ds&gad_source=1&gad_campaignid=20298205821&gbraid=0AAAAADkeWNNVlQIv6luQNfW-9oEKOhcqK&gclid=Cj0KCQjw3aLHBhDTARIsAIRij582qfjgslcdfP3DjPyIMtyVTkf3t6P4wSuSAQbVUwuU7ELXbdX1ekcaAim_EALw_wcB
 
-https://at.rs-online.com/web/p/sicherungshalter/2375260?cm_mmc=AT-PLA-DS3A-_-google-_-CSS_AT_DE_Pmax_Test-_--_-2375260&matchtype=&&gclsrc=aw.ds&gad_source=1&gad_campaignid=20298205821&gbraid=0AAAAADkeWNNVlQIv6luQNfW-9oEKOhcqK&gclid=CjwKCAjwup3HBhAAEiwA7euZusWiqs8Lys5GdcgIome2LbgBQE3lKgoIMlb5VDg9k_GD4PbvnzaJmxoCUQkQAvD_BwE
+2) https://at.rs-online.com/web/p/sicherungshalter/2375260?cm_mmc=AT-PLA-DS3A-_-google-_-CSS_AT_DE_Pmax_Test-_--_-2375260&matchtype=&&gclsrc=aw.ds&gad_source=1&gad_campaignid=20298205821&gbraid=0AAAAADkeWNNVlQIv6luQNfW-9oEKOhcqK&gclid=CjwKCAjwup3HBhAAEiwA7euZusWiqs8Lys5GdcgIome2LbgBQE3lKgoIMlb5VDg9k_GD4PbvnzaJmxoCUQkQAvD_BwE
 
 3D-Teil:
 https://www.thingiverse.com/thing:6588714/files
