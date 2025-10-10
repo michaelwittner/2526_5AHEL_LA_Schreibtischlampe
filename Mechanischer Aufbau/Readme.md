@@ -8,3 +8,8 @@ Zugentlastung vom HTL-Steyr Netzteil, Bohrung Pairleitner bis Freitag \
 - LED Print Fräsen und befästigen
 - Fixierung an Schwanenhals (Pins an Drähte löten)
 - Zugentlastung einbauen
+
+### 10.10.2025
+- Lösung für Sicherung finden
+- U-Profil Abdeckung designen
+- 
