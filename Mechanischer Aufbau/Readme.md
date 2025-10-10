@@ -25,5 +25,4 @@ RS:
 2) https://www.printables.com/model/1011753-halter-fur-fliegende-sicherung
 
 #### U-Profil Abdeckung:
-![3D-Modell ansehen](./Mechanischer Aufbau/U-Profil_Abdeckung.stl)
-
+[U-Profil Abdeckung (STL)](./Mechanischer%20Aufbau/U-Profil_Abdeckung.stl)
