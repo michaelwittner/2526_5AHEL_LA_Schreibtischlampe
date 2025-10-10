@@ -25,4 +25,4 @@ RS:
 2) https://www.printables.com/model/1011753-halter-fur-fliegende-sicherung
 
 #### U-Profil Abdeckung:
-![U-Profil Abdeckung (STL)](./U-Profil_Abdeckung1.stl)
+[U-Profil Abdeckung (STL)](./U-Profil_Abdeckung1.stl)
