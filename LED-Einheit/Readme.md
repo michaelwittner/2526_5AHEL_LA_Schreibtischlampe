@@ -17,3 +17,4 @@ Schaltung mit CD4017 um verschiedene zwischen Ausgängen schalten zu können, ve
 ![Breadboard Aufbau 1](images/CD4017_1.00.png)
 
 ## 10.10.2025
+Ausgang mit CD4017 funktioniert 6mA am Ausgang, mit MOSFET noch nicht
