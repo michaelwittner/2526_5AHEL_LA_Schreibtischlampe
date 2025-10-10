@@ -15,3 +15,5 @@ Schaltung mit CD4017 um verschiedene zwischen Ausgängen schalten zu können, ve
 
 ## CD4017_1.00
 ![Breadboard Aufbau 1](images/CD4017_1.00.png)
+
+## 10.10.2025
