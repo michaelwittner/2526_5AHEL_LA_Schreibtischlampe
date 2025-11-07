@@ -29,3 +29,6 @@ Sicherungshalter: https://at.rs-online.com/web/p/sicherungshalter/1769047?gb=s \
 
 ## 03.10.2025
 Schaltung mit CD4017B -> Durch Clock verschiedene Ausgänge schalten
+
+## 07.11.2025
+Trimmer: https://at.rs-online.com/web/p/trimmerpotentiometer/5222693
