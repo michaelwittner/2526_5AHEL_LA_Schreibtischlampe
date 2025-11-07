@@ -32,3 +32,4 @@ Schaltung mit CD4017B -> Durch Clock verschiedene Ausgänge schalten
 
 ## 07.11.2025
 Trimmer: https://at.rs-online.com/web/p/trimmerpotentiometer/5222693
+Kabelschuh: https://at.rs-online.com/web/p/flachsteckhulse/0534418
