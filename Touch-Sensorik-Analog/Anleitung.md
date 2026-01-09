@@ -8,6 +8,8 @@ Die Schaltung des NE555 Timer Bausteins ist folgendermaßen dimensioniert:
 
 Mit R1 uns C1 lässt sich die Schaltzeit (t) einstellen.
 
+$ t = 1,1 \cdot R_1 \cdot C_1 $
+
 t=1,1 ∗R1 ∗C1
 
 t=1,1 ∗220k ∗4,7µ
