@@ -10,6 +10,11 @@ Mit R1 uns C1 lässt sich die Schaltzeit (t) einstellen.
 
 $t = 1,1 \cdot R_1 \cdot C_1$
 
+Annahme $C_1 = 4,7µF$
+Gesucht $R_1$ für $t = 1,2s$
+
+$R_1 = \frac{t}{C_1 \cdot 1,1}$
+
 t=1,1 ∗R1 ∗C1
 
 t=1,1 ∗220k ∗4,7µ
