@@ -1,0 +1,37 @@
+Schwanenhals:
+1) 
+https://www.ebay.de/itm/177353253336?chn=ps&_ul=DE&_trkparms=ispr%3D1&amdata=enc%3A19S1d6B_LRtCRI05k9A0EsQ40&norover=1&mkevt=1&mkrid=707-168914-907737-8&mkcid=2&itemid=177353253336&targetid=325425753764&device=c&mktype=pla&googleloc=1000850&poi=&campaignid=20354691798&mkgroupid=151907125395&rlsatarget=pla-325425753764&abcId=&merchantid=5447894004&gad_source=1&gad_campaignid=20354691798&gbraid=0AAAAAo9ZJxsMjyiAEq-ePAyyfN4kQVvXi&gclid=CjwKCAjwiY_GBhBEEiwAFaghvkleCda9dQz1f9jRXTqX4YluhTs5lEad28aeYFN79EdSCupjuomZ5hoCF54QAvD_BwE
+2) 
+https://www.harfington.com/products/p-1285004?variant=43217351147769&_gsid=ECBpitNtW67d&utm_source=chatgpt.com
+
+Kapazitiver Sensor:
+https://www.mouser.at/ProductDetail/SparkFun/SEN-12041?qs=WyAARYrbSnbVgFLf8akYHQ%3D%3D&mgh=1&vip=1&utm_id=20610431507&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=20613817165&gbraid=0AAAAADn_wf2fuuUvJlxH5_EnhIhMbQNwE&gclid=CjwKCAjwiY_GBhBEEiwAFaghvt3XCxAcqEoOuqVPxqlkqDLNetqgCbPx4S1-KAeaUCF-0swvT-iI3RoCTmUQAvD_BwE
+
+THT-LED:
+1) https://www.switchelectronics.co.uk/products/white-5mm-diffused-round-led-4000mcd-6000k?variant=45356667830581&_gsid=Lw726UEQdW8p&utm_source=chatgpt.com
+2) https://at.rs-online.com/web/p/leds/2545723?gb=s
+
+SMD-LED-Warmweiss
+https://www.reichelt.at/at/de/shop/produkt/led_5_mm_bedrahtet_warmweiss_23000_mcd_15_-163994
+
+Sicherung 5x20: https://at.rs-online.com/web/p/feinsicherungen/0563722?cm_mmc=AT-PPC-DS3A-_-google-_-DSA_AT_DE_Sicherungen+und+Leitungsschutzschalter_Index-_-Feinsicherungen%7C+Products-_-DYNAMIC+SEARCH+ADS&matchtype=&dsa-1654573426999&gclsrc=aw.ds&gad_source=1&gad_campaignid=17128883418&gbraid=0AAAAADkeWNNnLizClw80jrE_dvMhcoJ9_&gclid=CjwKCAjw89jGBhB0EiwA2o1On2qC14-NwMBfNiLWUObro9sYEJim8IOrced61eHoK35X3hhKKwx0OBoCeNgQAvD_BwE /
+Halter: https://at.rs-online.com/web/p/sicherungshalter/1769047?gb=s
+
+
+Funktionsweise:
+Sensor-Ausgang über Entprellschaltung an Clock-Eingang des Flip-Flops
+Flip-Flop-Ausgang steuert MOSFET
+MOSFET schaltet die LEDs
+
+
+Fragen:
+- LED (SMD/ THT)
+- LED (wie warm, zwei arten)
+- Funktionalität (wischen (pi), berühren (schaltung))
+- unten aus oben Helligkeit?
+- U Profil?
+- Abdeckung fürs Profil?
+- wie mit Gehäuse verbinden
+
+
+THT-LED bestellen: https://at.rs-online.com/web/p/leds/2545723?gb=s
