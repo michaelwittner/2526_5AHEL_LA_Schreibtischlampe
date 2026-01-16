@@ -30,7 +30,7 @@ Ansteuerung 16 LEDs parallel der
 - Zugentlastung einbauen
 - Schaltung mit CD4017B -> Durch Clock verschiedene Ausgänge schalten mit verschiedenen Stromstärken
 
-### 10.10.2025
+## 10.10.2025
 - Ausgang mit CD4017 funktioniert 6mA am Ausgang, mit MOSFET noch nicht
 - Lösung für Sicherung finden
 - U-Profil Abdeckung designen
