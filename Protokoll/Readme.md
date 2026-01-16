@@ -41,7 +41,7 @@ Buchse: Schurter IEC-Steckverbinder C8 250 V, Gerade, Snap-In, Stecker, 2.5A, St
 Trimmer: https://at.rs-online.com/web/p/trimmerpotentiometer/5222693 \
 Kabelschuh: https://at.rs-online.com/web/p/flachsteckhulse/0534418
 
-
+# Zusatz
 
 #### LEDSerie1.00
 ![Breadboard Aufbau 1](images/LEDSerie1.00.png)
@@ -69,14 +69,7 @@ RS:
 #### CD4017_1.00
 ![Breadboard Aufbau 1](images/CD4017_1.00.png)
 
-
-
-
-
-
-
-
-## Testschaltung1
+#### Testschaltung1
 ![Breadboard Aufbau 1](images/Testschaltung1.00.png) \
 ![Breadboard Aufbau 1](images/Testschaltung1.01.png)  \
 ![Breadboard Aufbau 1](images/Testschaltung1.02.png)  \
