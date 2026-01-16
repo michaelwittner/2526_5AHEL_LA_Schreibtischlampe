@@ -1,3 +1,6 @@
+# 2526_5AHEL_LA_Schreibtischlampe
+Schreibtischlampe für Elektronik Werkstätten 1./2. Jahrgang - basierend auf RECOM Netzteilen
+
 ## 19.09.2025
 Aluschiene eloxiert -> mit Testschaltung1 probiert ob es möglich ist, dass auf Kontakt mit Hand Spannungsänderung erfolgt \
 Bestellen THT-LED: https://at.rs-online.com/web/p/leds/2545723?gb=s \
