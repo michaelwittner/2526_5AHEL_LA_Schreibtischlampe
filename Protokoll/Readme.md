@@ -43,33 +43,32 @@ Kabelschuh: https://at.rs-online.com/web/p/flachsteckhulse/0534418
 
 # Zusatz
 
-#### LEDSerie1.00
+### LEDSerie1.00
 ![Breadboard Aufbau 1](images/LEDSerie1.00.png)
 
-#### Fußteil
+### Fußteil
 https://www.ikea.com/at/de/p/blanda-blank-schuessel-edelstahl-30081467/
 Zugentlastung vom HTL-Steyr Netzteil, Bohrung Pairleitner bis Freitag \
 
-#### Sicherungshalter:
-RS:
+### Sicherungshalter:
 1) https://at.rs-online.com/web/p/sicherungshalter/2375259?cm_mmc=AT-PLA-DS3A-_-google-_-CSS_AT_DE_Pmax_Test-_--_-2375259&matchtype=&&gclsrc=aw.ds&gad_source=1&gad_campaignid=20298205821&gbraid=0AAAAADkeWNNVlQIv6luQNfW-9oEKOhcqK&gclid=Cj0KCQjw3aLHBhDTARIsAIRij582qfjgslcdfP3DjPyIMtyVTkf3t6P4wSuSAQbVUwuU7ELXbdX1ekcaAim_EALw_wcB
 2) https://at.rs-online.com/web/p/sicherungshalter/2375260?cm_mmc=AT-PLA-DS3A-_-google-_-CSS_AT_DE_Pmax_Test-_--_-2375260&matchtype=&&gclsrc=aw.ds&gad_source=1&gad_campaignid=20298205821&gbraid=0AAAAADkeWNNVlQIv6luQNfW-9oEKOhcqK&gclid=CjwKCAjwup3HBhAAEiwA7euZusWiqs8Lys5GdcgIome2LbgBQE3lKgoIMlb5VDg9k_GD4PbvnzaJmxoCUQkQAvD_BwE
 
-#### 3D-Teil:
+### 3D-Teil:
 1) https://www.thingiverse.com/thing:6588714/files
 2) https://www.printables.com/model/1011753-halter-fur-fliegende-sicherung
 
-#### U-Profil Abdeckung:
+### U-Profil Abdeckung:
 [U-Profil Abdeckung (STL)](./U-Profil_Abdeckung.stl)
 [U-Profil Abdeckung (STL)](./U-Profil_Abdeckung_mit_Loch.stl)
 
-#### LEDSerie1.00
+### LEDSerie1.00
 ![Breadboard Aufbau 1](images/LEDSerie1.00.png)
 
-#### CD4017_1.00
+### CD4017_1.00
 ![Breadboard Aufbau 1](images/CD4017_1.00.png)
 
-#### Testschaltung1
+### Testschaltung1
 ![Breadboard Aufbau 1](images/Testschaltung1.00.png) \
 ![Breadboard Aufbau 1](images/Testschaltung1.01.png)  \
 ![Breadboard Aufbau 1](images/Testschaltung1.02.png)  \
