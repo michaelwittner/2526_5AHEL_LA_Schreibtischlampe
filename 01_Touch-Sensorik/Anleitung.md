@@ -10,16 +10,22 @@ Mit R1 uns C1 lässt sich die Schaltzeit (t) einstellen.
 
 $t = 1,1 \cdot R_1 \cdot C_1$
 
-Annahme $C_1 = 4,7µF$
+Annahme: $\underline{\underline{C_1 = 4,7µF}}$
+
 Gesucht $R_1$ für $t = 1,2s$
 
-$R_1 = \frac{t}{C_1 \cdot 1,1}$
+$R_1 = \frac{t}{C_1 \cdot 1,1} = \frac{1,2s}{4,7µF \cdot 1,1} = \underline{232,10k\Omega}$
 
-t=1,1 ∗R1 ∗C1
+=> gewählt: $\underline{\underline{R_1 = 220k\Omega}}$
 
-t=1,1 ∗220k ∗4,7µ
+daraus ergibt sich folgende Zeitkonstante:
 
-t=1,14s
+$t=1,1 \cdot R_1 \cdot C_1$ 
+
+$t=1,1 \cdot 220k\Omega \cdot 4,7µF$
+
+$\underline{\underline{t = 1,14s}}$
+
 
 Dies bedeutet, dass sich der Zustand (also die Helligkeit der Lampe) maximal
 im 1,14s Takt einstellen lässt. Der 4017 Baustein schaltet bei jedem high Impuls am
