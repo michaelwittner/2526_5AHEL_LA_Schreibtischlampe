@@ -3,7 +3,7 @@
 ### Schaltung:
 <img src="./Bilder/Schaltplan_LED-Einheit.png" width="500">
 
-Widerstand in dieser Schaltung?
+Widerstand: 
 
 ## Länglicher Kopf mit Aluminium U Profil
 ### Printplan:
