@@ -1,4 +1,4 @@
-# **HTLigt**
+# **HTLight**
 A Project made in the [HTL Steyr](https://www.htl-steyr.ac.at/) in the year 2026. 
 
 The school was looking for a new workshop project for first-year students. As part of their engineering project, students Konstantin Schwödiauer, Thomas Zeiler, and Fabian Lenhart developed a desk lamp called HTLight. This lamp is not switched on using a switch, but by touching a metal part of the housing, which also allows the brightness to be adjusted.
