@@ -2,6 +2,6 @@
 
 ### Schaltplan:
 
-### Printpla:
+### Printplan:
 
 ### 3D Ansicht:
