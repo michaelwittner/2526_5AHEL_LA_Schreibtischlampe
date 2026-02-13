@@ -4318,15 +4318,6 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://www.conrad.at/de/p/piher-pt10lv10-103a2020-pm-s-pt10lv10-103a2020-pm-s-trimmer-linear-0-15-w-10-k-220-240-1-st-430862.html?searchType=SearchRedirect"
-			(at 234.95 88.9 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Bestellnummer" "430862-UP"
 			(at 234.95 88.9 90)
 			(effects
@@ -4337,6 +4328,33 @@
 			)
 		)
 		(property "Lieferant " "Conrad"
+			(at 234.95 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "0,33"
+			(at 234.95 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "30"
+			(at 234.95 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-103a2020-pm-s-pt10lv10-103a2020-pm-s-trimmer-linear-0-15-w-10-k-220-240-1-st-430862.html?searchType=SearchRedirect"
 			(at 234.95 88.9 90)
 			(effects
 				(font
@@ -4532,7 +4550,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.rs-online.com/web/p/bipolare-transistoren/7619822"
+		(property "Preis/Stück [€]" "0,099"
+			(at 58.42 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "100"
+			(at 58.42 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.rs-online.com/web/p/bipolare-transistoren/7619822"
 			(at 58.42 74.93 0)
 			(effects
 				(font
@@ -4649,7 +4685,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.rs-online.com/web/p/schottky-dioden-und-gleichrichter/1867622P?searchId=5b0caa26-f946-4f84-a46e-2c3bc815f60d"
+		(property "Preis/Stück [€]" "0,026"
+			(at 212.09 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "500"
+			(at 212.09 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.rs-online.com/web/p/schottky-dioden-und-gleichrichter/1867622P?searchId=5b0caa26-f946-4f84-a46e-2c3bc815f60d"
 			(at 212.09 63.5 0)
 			(effects
 				(font
@@ -4793,7 +4847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "-"
 			(at 57.15 185.42 0)
 			(effects
 				(font
@@ -4802,7 +4856,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "-"
+			(at 57.15 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "-"
+			(at 57.15 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "-"
+			(at 57.15 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "-"
 			(at 57.15 185.42 0)
 			(effects
 				(font
@@ -4899,7 +4980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "-"
 			(at 248.92 88.9 90)
 			(effects
 				(font
@@ -4908,7 +4989,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "HTL"
+			(at 248.92 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "-"
+			(at 248.92 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "-"
+			(at 248.92 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "-"
 			(at 248.92 88.9 90)
 			(effects
 				(font
@@ -5014,7 +5122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "-"
 			(at 115.57 60.96 0)
 			(effects
 				(font
@@ -5023,7 +5131,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "HTL"
+			(at 115.57 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "-"
+			(at 115.57 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "-"
+			(at 115.57 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "-"
 			(at 115.57 60.96 0)
 			(effects
 				(font
@@ -5073,7 +5208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
 			(at 72.39 139.7 0)
 			(effects
 				(font
@@ -5127,7 +5262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "731091 - 62"
 			(at 72.39 139.7 0)
 			(effects
 				(font
@@ -5136,7 +5271,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "Conrad"
+			(at 72.39 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "0,284"
+			(at 72.39 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "30"
+			(at 72.39 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.conrad.at/de/p/degson-dg301-5-0-02p-12-schraubklemmblock-1-50-mm-polzahl-2-blau-1-st-731091.html"
 			(at 72.39 139.7 0)
 			(effects
 				(font
@@ -5242,7 +5404,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "-"
 			(at 69.85 60.96 0)
 			(effects
 				(font
@@ -5251,7 +5413,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "HTL"
+			(at 69.85 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "-"
+			(at 69.85 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "-"
+			(at 69.85 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "-"
 			(at 69.85 60.96 0)
 			(effects
 				(font
@@ -5300,7 +5489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal"
 			(at 177.8 140.97 0)
 			(effects
 				(font
@@ -5354,7 +5543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "730196 - 62"
 			(at 177.8 140.97 0)
 			(effects
 				(font
@@ -5363,7 +5552,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "Conrad"
+			(at 177.8 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "0,41"
+			(at 177.8 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "30"
+			(at 177.8 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.conrad.at/de/p/degson-dg301-5-0-03p-12-schraubklemmblock-1-50-mm-polzahl-3-blau-1-st-730196.html"
 			(at 177.8 140.97 0)
 			(effects
 				(font
@@ -5445,7 +5661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "-"
 			(at 83.82 185.42 0)
 			(effects
 				(font
@@ -5454,7 +5670,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "-"
+			(at 83.82 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "-"
+			(at 83.82 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "-"
+			(at 83.82 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "-"
 			(at 83.82 185.42 0)
 			(effects
 				(font
@@ -5527,7 +5770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "-"
 			(at 83.82 177.8 0)
 			(effects
 				(font
@@ -5536,7 +5779,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "-"
+			(at 83.82 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "-"
+			(at 83.82 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "-"
+			(at 83.82 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "-"
 			(at 83.82 177.8 0)
 			(effects
 				(font
@@ -5626,7 +5896,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://www.conrad.at/de/p/piher-pt10lv10-505a2020-pm-s-pt10lv10-505a2020-pm-s-trimmer-linear-0-15-w-5-m-220-240-1-st-430935.html?searchType=SearchRedirect"
+		(property "Preis/Stück [€]" "0,33"
+			(at 45.72 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "30"
+			(at 45.72 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-505a2020-pm-s-pt10lv10-505a2020-pm-s-trimmer-linear-0-15-w-5-m-220-240-1-st-430935.html?searchType=SearchRedirect"
 			(at 45.72 74.93 0)
 			(effects
 				(font
@@ -5707,7 +5995,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "-"
 			(at 57.15 177.8 0)
 			(effects
 				(font
@@ -5716,7 +6004,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "-"
+			(at 57.15 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "-"
+			(at 57.15 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "-"
+			(at 57.15 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "-"
 			(at 57.15 177.8 0)
 			(effects
 				(font
@@ -5771,7 +6086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://docs.rs-online.com/b38b/0900766b813ec207.pdf"
 			(at 85.09 91.44 0)
 			(effects
 				(font
@@ -5834,7 +6149,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.rs-online.com/web/p/keramik-vielschichtkondensatoren/7368839P?searchId=6fb7afe0-a126-41e9-85c3-3c76341f54ae"
+		(property "Preis/Stück [€]" "0,166"
+			(at 85.09 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "250"
+			(at 85.09 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.rs-online.com/web/p/keramik-vielschichtkondensatoren/7368839P?searchId=6fb7afe0-a126-41e9-85c3-3c76341f54ae"
 			(at 85.09 91.44 0)
 			(effects
 				(font
@@ -5910,15 +6243,6 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://www.conrad.at/de/p/piher-pt10lv10-103a2020-pm-s-pt10lv10-103a2020-pm-s-trimmer-linear-0-15-w-10-k-220-240-1-st-430862.html?searchType=SearchRedirect"
-			(at 234.95 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Bestellnummer" "430862-UP"
 			(at 234.95 74.93 90)
 			(effects
@@ -5929,6 +6253,33 @@
 			)
 		)
 		(property "Lieferant " "Conrad"
+			(at 234.95 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "0,33"
+			(at 234.95 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "30"
+			(at 234.95 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-103a2020-pm-s-pt10lv10-103a2020-pm-s-trimmer-linear-0-15-w-10-k-220-240-1-st-430862.html?searchType=SearchRedirect"
 			(at 234.95 74.93 90)
 			(effects
 				(font
@@ -6009,7 +6360,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "-"
 			(at 129.54 142.24 0)
 			(effects
 				(font
@@ -6018,7 +6369,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "HTL"
+			(at 129.54 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "-"
+			(at 129.54 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "-"
+			(at 129.54 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "-"
 			(at 129.54 142.24 0)
 			(effects
 				(font
@@ -6145,7 +6523,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.rs-online.com/web/p/bipolare-transistoren/7619822"
+		(property "Preis/Stück [€]" "0,099"
+			(at 67.31 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "100"
+			(at 67.31 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.rs-online.com/web/p/bipolare-transistoren/7619822"
 			(at 67.31 88.9 0)
 			(effects
 				(font
@@ -6293,7 +6689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "-"
 			(at 40.64 140.97 0)
 			(effects
 				(font
@@ -6302,7 +6698,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "HTL"
+			(at 40.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "-"
+			(at 40.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "-"
+			(at 40.64 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "-"
 			(at 40.64 140.97 0)
 			(effects
 				(font
@@ -6356,7 +6779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://docs.rs-online.com/b38b/0900766b813ec207.pdf"
 			(at 157.48 58.42 0)
 			(effects
 				(font
@@ -6392,7 +6815,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.rs-online.com/web/p/keramik-vielschichtkondensatoren/7368839P?searchId=6fb7afe0-a126-41e9-85c3-3c76341f54ae"
+		(property "Preis/Stück [€]" "0,166"
+			(at 157.48 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "250"
+			(at 157.48 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.rs-online.com/web/p/keramik-vielschichtkondensatoren/7368839P?searchId=6fb7afe0-a126-41e9-85c3-3c76341f54ae"
 			(at 157.48 58.42 0)
 			(effects
 				(font
@@ -6444,7 +6885,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 116.5352 95.25 0)
 			(effects
 				(font
@@ -6453,7 +6894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://docs.rs-online.com/823f/0900766b800bd184.pdf"
 			(at 115.57 91.44 0)
 			(effects
 				(font
@@ -6516,7 +6957,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.rs-online.com/web/p/aluminium-elektrolytkondensatoren/4149171P?searchId=8b4d72ba-d89b-419d-9372-43a4bb1350b0"
+		(property "Preis/Stück [€]" "0,09"
+			(at 115.57 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "100"
+			(at 115.57 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.rs-online.com/web/p/aluminium-elektrolytkondensatoren/4149171P?searchId=8b4d72ba-d89b-419d-9372-43a4bb1350b0"
 			(at 115.57 91.44 0)
 			(effects
 				(font
@@ -6640,7 +7099,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.rs-online.com/web/p/operationsverstarker/4363046?gb=a"
+		(property "Preis/Stück [€]" "1,15"
+			(at 99.06 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "30"
+			(at 99.06 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.rs-online.com/web/p/operationsverstarker/4363046?gb=a"
 			(at 99.06 78.74 0)
 			(effects
 				(font
@@ -6998,7 +7475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" ""
+		(property "Bestellnummer" "-"
 			(at 222.25 88.9 90)
 			(effects
 				(font
@@ -7007,7 +7484,34 @@
 				(hide yes)
 			)
 		)
-		(property "Lieferant " ""
+		(property "Lieferant " "HTL"
+			(at 222.25 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Preis/Stück [€]" "-"
+			(at 222.25 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "-"
+			(at 222.25 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "-"
 			(at 222.25 88.9 90)
 			(effects
 				(font
@@ -7120,7 +7624,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.rs-online.com/web/p/schottky-dioden-und-gleichrichter/1867622P?searchId=5b0caa26-f946-4f84-a46e-2c3bc815f60d"
+		(property "Preis/Stück [€]" "0,026"
+			(at 212.09 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "500"
+			(at 212.09 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.rs-online.com/web/p/schottky-dioden-und-gleichrichter/1867622P?searchId=5b0caa26-f946-4f84-a46e-2c3bc815f60d"
 			(at 212.09 88.9 0)
 			(effects
 				(font
@@ -7244,7 +7766,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.farnell.com/texas-instruments/cd4017be/z-hler-dekade-teiler-pdip-16/dp/3006265"
+		(property "Preis/Stück [€]" "0,92"
+			(at 184.15 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "30"
+			(at 184.15 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.farnell.com/texas-instruments/cd4017be/z-hler-dekade-teiler-pdip-16/dp/3006265"
 			(at 184.15 73.66 0)
 			(effects
 				(font
@@ -7347,7 +7887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://docs.rs-online.com/6481/0900766b816f73d4.pdf"
 			(at 260.35 88.9 0)
 			(effects
 				(font
@@ -7410,7 +7950,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.rs-online.com/web/p/bipolare-transistoren/1867938?searchId=8d687b50-c03e-4669-b332-3298a7c5743c"
+		(property "Preis/Stück [€]" "0,774"
+			(at 260.35 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "3 * 10"
+			(at 260.35 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.rs-online.com/web/p/bipolare-transistoren/1867938?searchId=8d687b50-c03e-4669-b332-3298a7c5743c"
 			(at 260.35 88.9 0)
 			(effects
 				(font
@@ -7659,7 +8217,25 @@
 				(hide yes)
 			)
 		)
-		(property "RS/URL" "https://at.rs-online.com/web/p/schottky-dioden-und-gleichrichter/1867622P?searchId=5b0caa26-f946-4f84-a46e-2c3bc815f60d"
+		(property "Preis/Stück [€]" "0,026"
+			(at 212.09 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Stück" "500"
+			(at 212.09 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "URL" "https://at.rs-online.com/web/p/schottky-dioden-und-gleichrichter/1867622P?searchId=5b0caa26-f946-4f84-a46e-2c3bc815f60d"
 			(at 212.09 74.93 0)
 			(effects
 				(font

@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.3,
-          "height": 3.5,
-          "width": 3.5
+          "drill": 0.6,
+          "height": 1.6,
+          "width": 1.2
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -599,8 +599,8 @@
         },
         {
           "group_by": false,
-          "label": "RS/URL",
-          "name": "RS/URL",
+          "label": "URL",
+          "name": "URL",
           "show": true
         },
         {
@@ -626,14 +626,26 @@
           "label": "Bestellnummer",
           "name": "Bestellnummer",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Preis/Stück [€]",
+          "name": "Preis/Stück [€]",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Stück",
+          "name": "Stück",
+          "show": true
         }
       ],
       "filter_string": "",
-      "group_symbols": true,
+      "group_symbols": false,
       "include_excluded_from_bom": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Preis/Stück [€]"
     },
     "connection_grid_size": 50.0,
     "drawing": {
