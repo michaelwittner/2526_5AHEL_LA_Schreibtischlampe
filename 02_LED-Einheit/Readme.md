@@ -3,7 +3,7 @@
 ### Schaltung:
 <img src="./Bilder/Schaltplan_LED-Einheit.png" width="500">
 
-Widerstand: 
+Widerstand R1: 5,6 Ohm
 
 ## Länglicher Kopf mit Aluminium U Profil
 ### Printplan:

@@ -31,7 +31,9 @@ Bodenplatte: Das Stützmaterial muss entfernt werden, und die Versorgungsbuchse 
 Anschließend wird die Vorgefertigte IKEA Schüssel wiefolgt mit dem schwanenals verschraubt.\
 <img src="image-1.png" alt="Verschraubung-Schüssel-Hals" width="300">
 
-Nach fertigen der Platine und anschließen aller Drähte und Versorgungsleitungen wird die vorher vorbereitete IKEA Schüssel mit Hals mittels drei Treibschrauben mit der Bodenplatte verschraubt.\
+Nach fertigen der Platine und anschließen aller Drähte und Versorgungsleitungen wird die vorher vorbereitete IKEA Schüssel mit Hals mittels drei Treibschrauben mit der Bodenplatte verschraubt.
+
+Der Lampenkopf wird mit einer Mutter oben an der Kappe festgeschraubt.
 
 
 
