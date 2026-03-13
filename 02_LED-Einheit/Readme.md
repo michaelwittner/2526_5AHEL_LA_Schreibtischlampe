@@ -12,6 +12,7 @@ Widerstand R1: 4,7 Ohm
 ### 3D-Ansicht:
 <img src="./Bilder/Länglicher-Kopf_3D-Ansicht.png" width="500">
 
+
 ## Runder Kopf
 ### Printplan:
-<img src="./Bilder/Printplan_runder-Kopf.png" width="500">
+<img src="./Bilder/Runder-Kopf_Printplan.png" width="500">
