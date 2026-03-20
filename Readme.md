@@ -21,6 +21,17 @@ Dies funktioniert über die Menschliche Brummspannung. Das heißt durch Wasser i
 Dieses Repository zeigt ihnen wie solche eine Lampe gefertigt werden kann, und welche Bauteile verwendet werden. Es zeigt ihnen auch Schaltpläne, Printpläne, Stücklisten und Preis
 </details>
 
+## Inhalt
+
+- [01 Touch-Sensorik](./01_Touch-Sensorik)
+- [02 LED-Einheit](./02_LED-Einheit)
+- [03 Mechanischer Aufbau](./03_Mechanischer_Aufbau)
+- [04 Verdrahtung](./04_Verdrahtung)
+- [05 Protokoll](./05_Protokoll)
+- [Bilder](./Bilder)
+
+
+
 <br>
 <br>
 
