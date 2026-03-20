@@ -4275,7 +4275,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0192388e-3eac-439a-a48d-c0bf81b0b30c")
-		(property "Reference" "RV4"
+		(property "Reference" "RV2"
 			(at 234.95 92.71 90)
 			(effects
 				(font
@@ -4283,7 +4283,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "100k"
 			(at 234.95 94.996 90)
 			(effects
 				(font
@@ -4318,7 +4318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" "430862-UP"
+		(property "Bestellnummer" "430897 - UP"
 			(at 234.95 88.9 90)
 			(effects
 				(font
@@ -4336,7 +4336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Preis/Stück [€]" "0,33"
+		(property "Preis/Stück [€]" "0,36"
 			(at 234.95 88.9 90)
 			(effects
 				(font
@@ -4354,7 +4354,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-103a2020-pm-s-pt10lv10-103a2020-pm-s-trimmer-linear-0-15-w-10-k-220-240-1-st-430862.html?searchType=SearchRedirect"
+		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-104a2020-pm-s-pt10lv10-104a2020-pm-s-trimmer-linear-0-15-w-100-k-220-240-1-st-430897.html?insert=UP&searchType=SearchRedirect"
 			(at 234.95 88.9 90)
 			(effects
 				(font
@@ -4375,7 +4375,7 @@
 		(instances
 			(project "SchreibtischlampeV2"
 				(path "/3158b9c4-08ec-4bf6-ad2d-573204077158"
-					(reference "RV4")
+					(reference "RV2")
 					(unit 1)
 				)
 			)
@@ -5833,7 +5833,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7142f7f9-48f9-4436-a034-a1ad1167456d")
-		(property "Reference" "RV2"
+		(property "Reference" "RV3"
 			(at 41.148 73.66 0)
 			(effects
 				(font
@@ -5935,7 +5935,7 @@
 		(instances
 			(project ""
 				(path "/3158b9c4-08ec-4bf6-ad2d-573204077158"
-					(reference "RV2")
+					(reference "RV3")
 					(unit 1)
 				)
 			)
@@ -6208,7 +6208,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "100k"
 			(at 234.95 80.518 90)
 			(effects
 				(font
@@ -6243,7 +6243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Bestellnummer" "430862-UP"
+		(property "Bestellnummer" "430897 - UP"
 			(at 234.95 74.93 90)
 			(effects
 				(font
@@ -6261,7 +6261,7 @@
 				(hide yes)
 			)
 		)
-		(property "Preis/Stück [€]" "0,33"
+		(property "Preis/Stück [€]" "0,36"
 			(at 234.95 74.93 90)
 			(effects
 				(font
@@ -6279,7 +6279,7 @@
 				(hide yes)
 			)
 		)
-		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-103a2020-pm-s-pt10lv10-103a2020-pm-s-trimmer-linear-0-15-w-10-k-220-240-1-st-430862.html?searchType=SearchRedirect"
+		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-104a2020-pm-s-pt10lv10-104a2020-pm-s-trimmer-linear-0-15-w-100-k-220-240-1-st-430897.html?insert=UP&searchType=SearchRedirect"
 			(at 234.95 74.93 90)
 			(effects
 				(font
