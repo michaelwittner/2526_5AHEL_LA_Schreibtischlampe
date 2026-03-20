@@ -1,4 +1,6 @@
-<center><img src="./Bilder/Logo.png" width="150"></center>
+<div align="center">
+<img src="./Bilder/Logo.png" width="150">
+</div>
 
 # **HTLight**
 A Project made in the [HTL Steyr](https://www.htl-steyr.ac.at/) in the year 2026. 
