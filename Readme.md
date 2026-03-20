@@ -5,7 +5,7 @@
 # **HTLight**
 A Project made in the [HTL Steyr](https://www.htl-steyr.ac.at/) in the year 2026. 
 
-The school was looking for a new workshop project for first-year students. As part of their engineering project, students Konstantin Schwödiauer, Thomas Zeiler, and Fabian Lenhart developed a desk lamp called HTLight. This lamp is not switched on using a switch, but by touching a metal part of the housing, which also allows the brightness to be adjusted.
+The school was looking for a new workshop project for first-year students. As part of their engineering project, students Konstantin Schwödiauer, Thomas Zeiler, and Fabian Lenhart developed a desk lamp called **HTLight**. This lamp is not switched on using a switch, but by touching a metal part of the housing, which also allows the brightness to be adjusted.
 
 
 This works via human hum voltage (Brummspannung). This means that due to water in the fingers and the creation of a small capacity, the human body always emits a small electrical impulse. This electrical impulse is detected and processed by the circuit.
@@ -14,7 +14,7 @@ This repository shows you how such a lamp can be manufacturedand which component
 
 <details>
 <summary>Deutsch</summary>
-In der Schule wurde nach einem neuen Wekstättenprojekt für die Schüler der ersten Klasse gesucht. Die Schüler Konstantin Schwödiauer, Thomas Zeiler und Fabian Lenhart haben im zuge ihres Ingenieurs Projekt eine Schreibtischlampe namends HTLlight entwickelt. Diese Lampe wird nicht über einen Schalter, sondern durch berührung eines metalischen Gehäuseteils eingeschaltet, bzw. in die Dimmstufen geschaltet.
+In der Schule wurde nach einem neuen Wekstättenprojekt für die Schüler der ersten Klasse gesucht. Die Schüler Konstantin Schwödiauer, Thomas Zeiler und Fabian Lenhart haben im zuge ihres Ingenieurs Projekt eine Schreibtischlampe namens **HTlight** entwickelt. Diese Lampe wird nicht über einen Schalter, sondern durch berührung eines metalischen Gehäuseteils eingeschaltet, bzw. in die Dimmstufen geschaltet.
 
 Dies funktioniert über die Menschliche Brummspannung. Das heißt durch Wasser in den Fingern und entstehung einer kleinen Kapazität, gibt der Menschliche Körper immer einen kleinen Stromimpuls ab. Dieser Stromimpuls wird von der Schaltung erfasst und verarbeitet.
 
@@ -23,12 +23,11 @@ Dieses Repository zeigt ihnen wie solche eine Lampe gefertigt werden kann, und w
 
 ## Inhalt
 
-- [01 Touch-Sensorik](./01_Touch-Sensorik)
-- [02 LED-Einheit](./02_LED-Einheit)
-- [03 Mechanischer Aufbau](./03_Mechanischer_Aufbau)
-- [04 Verdrahtung](./04_Verdrahtung)
-- [05 Protokoll](./05_Protokoll)
-- [Bilder](./Bilder)
+- [Touch-Sensorik](./01_Touch-Sensorik)
+- [LED-Einheit](./02_LED-Einheit)
+- [Mechanischer Aufbau](./03_Mechanischer_Aufbau)
+- [Verdrahtung](./04_Verdrahtung)
+
 
 
 
