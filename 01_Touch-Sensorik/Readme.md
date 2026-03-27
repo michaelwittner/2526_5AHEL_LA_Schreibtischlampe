@@ -1,5 +1,5 @@
 # Touch Sensorik und Led Anstuerung
-
+Die Verarbeitung des Touch-Signals sowie die Stromversorgung der LEDs wird mithilfe dieser Leiterplatte realisiert. Die Platine übernimmt dabei die gesamte Steuerungslogik, von der Erkennung des Touch-Inputs bis hin zur geregelten Ansteuerung der LEDs. Darüber hinaus bietet sie die Möglichkeit, verschiedene Dimmstufen einzustellen und so die Helligkeit der LEDs individuell anzupassen.
 
 ### Schaltplan:
 <img src="./Bilder/Schaltplan.png" width="500">
