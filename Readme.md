@@ -18,20 +18,31 @@ In der Schule wurde nach einem neuen Wekstättenprojekt für die Schüler der er
 
 Dies funktioniert über die Menschliche Brummspannung. Das heißt durch Wasser in den Fingern und entstehung einer kleinen Kapazität, gibt der Menschliche Körper immer einen kleinen Stromimpuls ab. Dieser Stromimpuls wird von der Schaltung erfasst und verarbeitet.
 
-Dieses Repository zeigt ihnen wie solche eine Lampe gefertigt werden kann, und welche Bauteile verwendet werden. Es zeigt ihnen auch Schaltpläne, Printpläne, Stücklisten und Preis
-</details>
+Dieses Repository zeigt ihnen wie solche eine Lampe gefertigt werden kann, und welche Bauteile verwendet werden. Es zeigt ihnen auch Schaltpläne, Printpläne, Stücklisten und Preis 
+</details> 
+<br>
+<br>
+<img src="./Bilder/LA-Schreibtischlampe_-09.jpg" width="500">
+<br>
 
-## Inhalt
+## Inhalt der Fertigung
 
-- [Touch-Sensorik](./01_Touch-Sensorik)
-- [LED-Einheit](./02_LED-Einheit)
-- [Mechanischer Aufbau](./03_Mechanischer_Aufbau)
+### Schritt 1: Fertigung der Touch-Sensorik Leiterplatte.
+
+Die steuerung des Touches und die Versorgung der LEDs wird mithilfe dieser Leiterplatte realisiert. Weiters lassen sich hier auch die Dimmstufen einstellen. \
+<br>
+Zur Anleitung : [Touch-Sensorik](./01_Touch-Sensorik)
+
+
+### Schritt 2: Fertigung der LED-Einheit Leiterplatte.
+
+Zur Anleitung: [LED-Einheit](./02_LED-Einheit)
+
+### Schritt 3: Fertigung der Verdrahtung.
 - [Verdrahtung](./04_Verdrahtung)
 
+### SChritt 4: Mechanischer Aufbau.
+- [Mechanischer Aufbau](./03_Mechanischer_Aufbau)
 
 
 
-<br>
-<br>
-
-<img src="./Bilder/LA-Schreibtischlampe_-09.jpg" width="500">

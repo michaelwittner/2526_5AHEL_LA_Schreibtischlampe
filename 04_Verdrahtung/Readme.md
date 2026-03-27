@@ -1,6 +1,6 @@
 # Verdrahtung Netz zu Netzteil
 Inline Sicherung: \
-https://www.pollin.at/p/sicherungshalter-s1058-260448 \
+https://www.pollin.at/p/sicherungshalter-s1058-260448 
 
 
 Auf den inline-Sicherungshalter wird auf die eine Seite eine Adernhülse und auf die anderen Seite eine isolierte Flachsteckhülse gekrimpt. Gesamte Länge: 12cm.
