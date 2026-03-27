@@ -26,6 +26,6 @@ Für die Verbindung zwischen Schüssel und der Touch-Sensorik wird ein ca. 15cm 
 
 # Komponenten:
 - Inline Sicherung: https://www.pollin.at/p/sicherungshalter-s1058-260448
-- Flachsteckhülse:
-- Zweipolige Buchse:
-- Versorgungsbuchse:
+- Flachsteckhülse: https://at.rs-online.com/web/p/flachsteckhulse/0534418?gb=a
+- Zweipolige Buchse: https://at.rs-online.com/web/p/steckergehause-und-stecker/6812812?gb=a
+- Versorgungsbuchse: https://at.rs-online.com/web/p/iec-steckverbinder/1745470?searchId=c8022f26-b264-4256-a50f-a3db67df32aa
