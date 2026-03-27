@@ -29,10 +29,10 @@ Dieses Repository zeigt ihnen wie solche eine Lampe gefertigt werden kann, und w
 
 ### Schritt 1: Fertigung der Touch-Sensorik Leiterplatte.
 
-Die Verarbeitung des Touches und die Versorgung der LEDs wird mithilfe dieser Leiterplatte realisiert. Weiters lassen sich hier auch die Dimmstufen einstellen. 
+Die Verarbeitung des Touches und die Versorgung der LEDs wird mithilfe dieser Leiterplatte realisiert. Außerdem lassen sich hier auch die Dimmstufen einstellen. 
 <br>
 <br>
-Zur Anleitung : [Touch-Sensorik](./01_Touch-Sensorik)
+Zur Anleitung: [Touch-Sensorik](./01_Touch-Sensorik)
 
 
 ### Schritt 2: Fertigung der LED-Einheit Leiterplatte.
@@ -51,7 +51,7 @@ Die Verdrahtung besteht aus folgenden Elementen:
 - Draht von Touch-Sensorik Leiterplatte zu LED-Einheit Leiterplatte
 - Draht von Touch-Sensorik Leiterplatte zu Gehäuse (Schüssel).
 
- Zur Anleitung: [Verdrahtung](./04_Verdrahtung)
+Zur Anleitung: [Verdrahtung](./04_Verdrahtung)
 
 ### Schritt 4: Mechanischer Aufbau.
 
@@ -59,7 +59,7 @@ Das Gehäuse der Lampe besteht aus:
 - Bodenplatte
 - Boden-Schüssel
 - Schwanenhals
-- Alu U-profil
+- Alu-U-profil
 - Deckkappen U-profil
 <br>
 
