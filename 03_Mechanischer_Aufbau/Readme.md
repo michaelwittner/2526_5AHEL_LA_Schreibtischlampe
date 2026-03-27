@@ -10,9 +10,11 @@
 | Bodenplatte            | [Bodenplatte](Bodenplatte_V1.2.FCStd)                                                                    | 1     |
 | U-Profil Abdeckungen   | [Abdeckungen](U-Profil_Abdeckung.FCStd)                                                                    | 1     |
 <br>
+
 # Aufbau
 ## Vorbereitung
 ### Schüssel:
+
 Schüssel muss noch ausgearbeitet werden.
 
 ### 3D-Druck Teile
