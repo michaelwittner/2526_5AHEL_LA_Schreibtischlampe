@@ -14,7 +14,7 @@ Dann werden die Beiden Anschlussdrähte mit einer Klemme mit dem Netzteil verbun
 Durch den Lampenhals wird ein zwei poliges 50 cm langes Kabel mit dem Querschnitt 0,25 mm^2 geführt. Auf die Touch-Sensorik Seite wird eine Adernhülse gekrimpt. Auf der Led-Einheit Seite ist ein zwei polige Buchse, die man auf einen Pinheader stecken kann anzubringen.
 <br>
 <br>
-<img src="./Bilder/Anschluss_LED-Einheit.jpeg" width="300">
+<img src="./Bilder/Schwanenhals_eingezogen.jpeg" width="300">
 <br>
 
 # Verbindung zwischen Schüssel und Touch-Sensorik
