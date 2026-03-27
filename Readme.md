@@ -36,12 +36,13 @@ Zur Anleitung: [Touch-Sensorik](./01_Touch-Sensorik)
 
 
 ### Schritt 2: Fertigung der LED-Einheit Leiterplatte.
-<br>
+
+Die LED-Einheit sitzt am oberen Ende des Schwanenhalses und ist mit dem U-Profil verschraubt.
+
 Stromaufnahme der LED-Einheit:
 <img src="./Bilder/Stromaufnahme.png" width="400">
 <br>
 <br>
-
 Zur Anleitung: [LED-Einheit](./02_LED-Einheit)
 
 ### Schritt 3: Fertigung der Verdrahtung.
