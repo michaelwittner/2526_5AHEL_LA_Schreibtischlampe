@@ -25,24 +25,45 @@ Dieses Repository zeigt ihnen wie solche eine Lampe gefertigt werden kann, und w
 <img src="./Bilder/LA-Schreibtischlampe_-09.jpg" width="500">
 <br>
 
-## Inhalt der Fertigung
+## Fertigung
 
 ### Schritt 1: Fertigung der Touch-Sensorik Leiterplatte.
 
-Die steuerung des Touches und die Versorgung der LEDs wird mithilfe dieser Leiterplatte realisiert. Weiters lassen sich hier auch die Dimmstufen einstellen. \
+Die Verarbeitung des Touches und die Versorgung der LEDs wird mithilfe dieser Leiterplatte realisiert. Weiters lassen sich hier auch die Dimmstufen einstellen. 
+<br>
 <br>
 Zur Anleitung : [Touch-Sensorik](./01_Touch-Sensorik)
 
 
 ### Schritt 2: Fertigung der LED-Einheit Leiterplatte.
+<br>
+Stromaufnahme der LED-Einheit:
+<img src="./Bilder/Stromaufnahme.png" width="400">
+<br>
+<br>
 
 Zur Anleitung: [LED-Einheit](./02_LED-Einheit)
 
 ### Schritt 3: Fertigung der Verdrahtung.
-- [Verdrahtung](./04_Verdrahtung)
 
-### SChritt 4: Mechanischer Aufbau.
-- [Mechanischer Aufbau](./03_Mechanischer_Aufbau)
+Die Verdrahtung besteht aus folgenden Elementen:
+- Versorgungsleitung von Versorgungsbuchse zu Netzteil.
+- Draht von Touch-Sensorik Leiterplatte zu LED-Einheit Leiterplatte
+- Draht von Touch-Sensorik Leiterplatte zu Gehäuse (Schüssel).
+
+ Zur Anleitung: [Verdrahtung](./04_Verdrahtung)
+
+### Schritt 4: Mechanischer Aufbau.
+
+Das Gehäuse der Lampe besteht aus:
+- Bodenplatte
+- Boden-Schüssel
+- Schwanenhals
+- Alu U-profil
+- Deckkappen U-profil
+<br>
+
+Zu Anleitung: [Mechanischer Aufbau](./03_Mechanischer_Aufbau)
 
 
 
