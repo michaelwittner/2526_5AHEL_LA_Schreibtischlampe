@@ -1,4 +1,11 @@
 # LED-Einheit / Lampenkopf
+## Bauteilliste
+
+| Bauteil              | RS-Bestellnummer | Stück |
+|----------------------|------------------|-------|
+| LED                  | 254-5723         | 16    |
+| Stifleiste gewinkelt | –                | 1     |
+| Widerstand 4,7 Ohm   | –                | 1     |
 
 ### Schaltung:
 <img src="./Bilder/Schaltplan_LED-Einheit.png" width="500">
