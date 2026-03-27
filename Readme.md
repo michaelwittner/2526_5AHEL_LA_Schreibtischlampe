@@ -40,6 +40,7 @@ Zur Anleitung: [Touch-Sensorik](./01_Touch-Sensorik)
 Die LED-Einheit sitzt am oberen Ende des Schwanenhalses und ist mit dem U-Profil verschraubt.
 
 Stromaufnahme der LED-Einheit:
+<br>
 <img src="./Bilder/Stromaufnahme.png" width="400">
 <br>
 <br>
