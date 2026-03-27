@@ -5477,7 +5477,7 @@
 		(at 148.1328 104.18)
 		(descr "Potentiometer, vertical, ACP CA9-V10, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf")
 		(tags "Potentiometer vertical ACP CA9-V10")
-		(property "Reference" "RV4"
+		(property "Reference" "RV2"
 			(at -3.3528 6.31 180)
 			(layer "B.SilkS")
 			(uuid "8fd7aaa0-3152-4274-aeb3-5e829d409cdd")
@@ -5489,7 +5489,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "100k"
 			(at 5 -3.65 180)
 			(layer "B.Fab")
 			(uuid "2fedfaca-17c9-4276-b8a4-cf6797c1fc96")
@@ -5541,7 +5541,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Bestellnummer" "430862-UP"
+		(property "Bestellnummer" "430897 - UP"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5569,7 +5569,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Preis/Stück [€]" "0,33"
+		(property "Preis/Stück [€]" "0,36"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5597,7 +5597,7 @@
 				(justify mirror)
 			)
 		)
-		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-103a2020-pm-s-pt10lv10-103a2020-pm-s-trimmer-linear-0-15-w-10-k-220-240-1-st-430862.html?searchType=SearchRedirect"
+		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-104a2020-pm-s-pt10lv10-104a2020-pm-s-trimmer-linear-0-15-w-100-k-220-240-1-st-430897.html?insert=UP&searchType=SearchRedirect"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -5783,7 +5783,7 @@
 		(at 137.75 59.135 -90)
 		(descr "Potentiometer, vertical, ACP CA9-V10, http://www.acptechnologies.com/wp-content/uploads/2017/05/02-ACP-CA9-CE9.pdf")
 		(tags "Potentiometer vertical ACP CA9-V10")
-		(property "Reference" "RV2"
+		(property "Reference" "RV3"
 			(at 5 8.65 90)
 			(layer "B.SilkS")
 			(uuid "6fc7f179-fe22-4573-ab5b-6607cec44c61")
@@ -7396,7 +7396,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "100k"
 			(at 5 -3.65 180)
 			(layer "B.Fab")
 			(uuid "0bfe0dc2-d026-4d5c-8943-907980f00dd6")
@@ -7448,7 +7448,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Bestellnummer" "430862-UP"
+		(property "Bestellnummer" "430897 - UP"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7476,7 +7476,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Preis/Stück [€]" "0,33"
+		(property "Preis/Stück [€]" "0,36"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -7504,7 +7504,7 @@
 				(justify mirror)
 			)
 		)
-		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-103a2020-pm-s-pt10lv10-103a2020-pm-s-trimmer-linear-0-15-w-10-k-220-240-1-st-430862.html?searchType=SearchRedirect"
+		(property "URL" "https://www.conrad.at/de/p/piher-pt10lv10-104a2020-pm-s-pt10lv10-104a2020-pm-s-trimmer-linear-0-15-w-100-k-220-240-1-st-430897.html?insert=UP&searchType=SearchRedirect"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "B.Fab")
