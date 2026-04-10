@@ -11,7 +11,7 @@ $t = 1.1 * R_{1} * C_{1}$ = 1mA
 <br>
 
 ### Berechnung Dimmerschaltung:
-#### Widerstand:
+#### Widerstand
 $h_{FE} ... 100-800$  
 $V_{4017} ... 4.6V-5V$  
 
