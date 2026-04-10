@@ -6,8 +6,12 @@ Die Verarbeitung des Touch-Signals sowie die Stromversorgung der LEDs wird mithi
 
 ### Berechnung:
 Q1:  
-$I_{B} = \frac{I_{L}}{h_{FE}} = \frac{400\,\text{mA}}{400}$  
-$R = \frac{U_{4017}}{I_{B}} = \frac{4.7\,\text{V}}{1\,\text{mA}}$
+$I_{B} = \frac{I_{L}}{h_{FE}} = \frac{400\text{mA}}{400}$  
+
+$R = \frac{U_{4017}}{I_{B}} = \frac{4.7\text{V}}{1\text{mA}}$
+
+Q2:
+
 
 ### Printplan:
 <img src="./Bilder/Printplan.png" width="500">
