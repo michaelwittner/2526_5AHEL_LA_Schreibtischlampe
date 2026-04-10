@@ -6,12 +6,14 @@ Die Verarbeitung des Touch-Signals sowie die Stromversorgung der LEDs wird mithi
 
 ### Berechnung:
 #### Schaltzeit (t)
-$t = 1.1 * R_{1} * C_{1}$ = 1mA
+$t = 1.1 * R_{1} * C_{1}$
+$t = 1.1 * 220kOhm * 4.7uF$ = 1.14s
+
 
 
 #### Widerstand:
-$h_{FE} = 100-800$  
-$V_{4017} = 4.6V-5V$  
+$h_{FE} ... 100-800$  
+$V_{4017} ... 4.6V-5V$  
 
 Q0:  
 Ausgeschalten
