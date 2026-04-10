@@ -1,0 +1,29 @@
+name: Create ZIP Release
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  zip-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create ZIP
+        run: |
+          zip -r KiCad_Schreibtischlampe.zip . \
+            --exclude "*.git*" \
+            --exclude ".github/*"
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: "Latest Build"
+          files: KiCad_Schreibtischlampe.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

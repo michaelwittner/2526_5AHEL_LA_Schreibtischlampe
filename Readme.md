@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./Bilder/Logo.png" width="150">
+<img src="./Bilder/Logo.png" width="400">
 </div>
 
 # **HTLight**
@@ -18,20 +18,54 @@ In der Schule wurde nach einem neuen Wekstättenprojekt für die Schüler der er
 
 Dies funktioniert über die Menschliche Brummspannung. Das heißt durch Wasser in den Fingern und entstehung einer kleinen Kapazität, gibt der Menschliche Körper immer einen kleinen Stromimpuls ab. Dieser Stromimpuls wird von der Schaltung erfasst und verarbeitet.
 
-Dieses Repository zeigt ihnen wie solche eine Lampe gefertigt werden kann, und welche Bauteile verwendet werden. Es zeigt ihnen auch Schaltpläne, Printpläne, Stücklisten und Preis
-</details>
-
-## Inhalt
-
-- [Touch-Sensorik](./01_Touch-Sensorik)
-- [LED-Einheit](./02_LED-Einheit)
-- [Mechanischer Aufbau](./03_Mechanischer_Aufbau)
-- [Verdrahtung](./04_Verdrahtung)
-
-
-
-
+Dieses Repository zeigt ihnen wie solche eine Lampe gefertigt werden kann, und welche Bauteile verwendet werden. Es zeigt ihnen auch Schaltpläne, Printpläne, Stücklisten und Preis 
+</details> 
 <br>
 <br>
-
 <img src="./Bilder/LA-Schreibtischlampe_-09.jpg" width="500">
+<br>
+
+## Fertigung
+
+### Schritt 1: Fertigung der Touch-Sensorik Leiterplatte.
+
+Die Verarbeitung des Touches und die Versorgung der LEDs wird mithilfe dieser Leiterplatte realisiert. Außerdem lassen sich hier auch die Dimmstufen einstellen. 
+<br>
+<br>
+Zur Anleitung: [Touch-Sensorik](./01_Touch-Sensorik)
+
+
+### Schritt 2: Fertigung der LED-Einheit Leiterplatte.
+
+Die LED-Einheit sitzt am oberen Ende des Schwanenhalses und ist mit dem U-Profil verschraubt.
+
+Stromaufnahme der LED-Einheit:
+<br>
+<img src="./Bilder/Stromaufnahme.png" width="400">
+<br>
+<br>
+Zur Anleitung: [LED-Einheit](./02_LED-Einheit)
+
+### Schritt 3: Fertigung der Verdrahtung.
+
+Die Verdrahtung besteht aus folgenden Elementen:
+- Versorgungsleitung von Versorgungsbuchse zu Netzteil.
+- Draht von Touch-Sensorik Leiterplatte zu LED-Einheit Leiterplatte
+- Draht von Touch-Sensorik Leiterplatte zu Gehäuse (Schüssel).
+
+Zur Anleitung: [Verdrahtung](./04_Verdrahtung)
+
+### Schritt 4: Mechanischer Aufbau.
+
+Das Gehäuse der Lampe besteht aus:
+- Bodenplatte
+- Boden-Schüssel
+- Schwanenhals
+- Alu-U-profil
+- Deckkappen U-profil
+<br>
+
+Zu Anleitung: [Mechanischer Aufbau](./03_Mechanischer_Aufbau)
+
+
+
