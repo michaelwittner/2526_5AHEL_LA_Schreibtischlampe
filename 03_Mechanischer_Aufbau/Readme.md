@@ -41,11 +41,11 @@ Aluminium U-Profil mit Tiefe 143mm und folgenden Abmaßen:
 Die Touch-Sensorik Leiterplatte wird auf das Netzteil gesetzt und die Anschlüsse bekommen eine Adernhülse. Anschließend werden die Netz-Versorgungs-Drähte des Netzteils mit den Netz-Anschluss-Drähte geklemt. Die 5V Ausgänge des Netzteil kommen in die Versorgngsklemme der Touch-Sensorik Leiterplatte.
 <br>
 <br>
-Bild:
+<img src="./Bilder/Unterteil_fertig.png" alt="Verschraubung-Schüssel-Hals" width="300">
 
 Wenn alles unter der Schüssel verstaut ist, wird die Schüssel mittels Treibschrauben mit der Bodenplatte verschraubt.
 <br>
 <br>
-Im Kopf muss nun die LED-Einheit Leiterplatte eingesetzt werden und mit der Abdeckung verschraubt werden
+Im Kopf muss nun die LED-Einheit Leiterplatte eingesetzt werden und mit der Abdeckung verschraubt werden.
 
 Bild:
