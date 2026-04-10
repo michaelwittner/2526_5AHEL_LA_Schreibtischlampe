@@ -4,7 +4,7 @@
 | Bauteil              | RS-Bestellnummer | Stück |
 |----------------------|------------------|-------|
 | LED                  | [254-5723](https://at.rs-online.com/web/p/leds/2545723)         | 16    |
-| Stifleiste gewinkelt | –                | 1     |
+| Stifleiste gewinkelt | [767-0946](https://at.rs-online.com/web/p/leiterplatten-header/7670946)                | 1     |
 | Widerstand 4,7 Ohm   | –                | 1     |
 
 Project download: 
