@@ -8,14 +8,33 @@
 | Schwanenhals           | https://www.pollin.at/p/schwanenhals-350-mm-in-stahl-chrom-ausfuehrung-gewinde-m8x0-75-630875 | 1     |
 | U-Profil               | –                                                                    | 1     |
 | Bodenplatte            | [Bodenplatte](Bodenplatte_V1.2.FCStd)                                                                    | 1     |
-| U-Profil Abdeckungen   | [Abdeckungen](U-Profil_Abdeckung.FCStd)                                                                    | 1     |
+| U-Profil Abdeckung hinten | [Abdeckung hinten](U-Profil_Abdeckung_hinten.FCStd) | 1     |
+|U-Profil Abdeckung vorne | [Abdeckung vorne](U-Profil_Abdeckung_vorne.FCStd)|1|
 <br>
 
 # Aufbau
 ## Vorbereitung
 ### Schüssel:
 
-Schüssel muss noch ausgearbeitet werden.
+Auf einer Seite der Schüssel muss ein Ausschnitt für die Versorgungsbuchse mit folgenden Maßen ausgefräßt werden:
+<br>
+Länge: 36 mm
+<br>
+Höhe: 25 mm
+<br>
+<img src="./Bilder/Schüssel_Versorgungsbuchse_Ausschnitt.jpeg" alt="Maße Quader" width="300">
+<br>
+<br>
+Oben in der Mitte wird ein Loch mit dem Durchmeser 8.5mm gebohrt. Hier wird der Hals angeschraubt.
+<br>
+<img src="./Bilder/Schüssel_Hals_Bohrung.jpeg" alt="Maße Quader" width="300">
+<br>
+<br>
+Am Unteren Rand der Schüssel müssen drei Bohrungen mit Durchmesser 3 mm gebohrt werden. Diese Löcher müssen über der dafür vorgesehenen Stellen der Bodenplatte sein.
+<br>
+<img src="./Bilder/Schüssel_Montierung_Bohrung.jpeg" alt="Maße Quader" width="300">
+<br>
+<img src="./Bilder/Vorgesehene_Stelle.jpeg" alt="Maße Quader" width="300">
 
 ### 3D-Druck Teile
 Die 3D-Druck Teile müssen ausgetruckt werden und das Stützfilament entfernt.
