@@ -22,7 +22,7 @@ Dieses Repository zeigt ihnen wie solche eine Lampe gefertigt werden kann, und w
 </details> 
 <br>
 <br>
-<img src="./Bilder/LA-Schreibtischlampe_-09.jpg" width="500">
+<img src="./Bilder/Schreibtischlampe_03.jpg" width="500">
 <br>
 
 ## Fertigung
