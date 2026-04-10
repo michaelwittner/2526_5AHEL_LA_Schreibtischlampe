@@ -5,6 +5,11 @@ Die Verarbeitung des Touch-Signals sowie die Stromversorgung der LEDs wird mithi
 <img src="./Bilder/Schaltplan.png" width="500">
 
 ### Berechnung:
+#### Schaltzeit (t)
+$t = 1.1 * R_{1} * C_{1}$ = 1mA
+
+
+#### Widerstand:
 $h_{FE} = 100-800$  
 $V_{4017} = 4.6V-5V$  
 
@@ -25,6 +30,7 @@ Q3:
 $I_{B} = \frac{I_{L}}{h_{FE}} = \frac{150\text{mA}}{400}$ = 0.38mA
 
 $R = \frac{U_{4017}}{I_{B}} = \frac{4.7\text{V}}{0.38\text{mA}}$ = 12.4kOhm
+
 
 
 
