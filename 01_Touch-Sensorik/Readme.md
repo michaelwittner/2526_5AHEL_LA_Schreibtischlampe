@@ -4,6 +4,32 @@ Die Verarbeitung des Touch-Signals sowie die Stromversorgung der LEDs wird mithi
 ### Schaltplan:
 <img src="./Bilder/Schaltplan.png" width="500">
 
+### Berechnung:
+$h_{FE} = 100-800$  
+$V_{4017} = 4.6V-5V$  
+
+Q0:  
+Ausgeschalten
+
+Q1:  
+$I_{B} = \frac{I_{L}}{h_{FE}} = \frac{400\text{mA}}{400}$ = 1mA
+
+$R = \frac{U_{4017}}{I_{B}} = \frac{4.7\text{V}}{1\text{mA}}$ = 4.7kOhm
+
+Q2:  
+$I_{B} = \frac{I_{L}}{h_{FE}} = \frac{320\text{mA}}{400}$ = 0.8mA
+
+$R = \frac{U_{4017}}{I_{B}} = \frac{4.7\text{V}}{0.8\text{mA}}$ = 5.8kOhm
+
+Q3:  
+$I_{B} = \frac{I_{L}}{h_{FE}} = \frac{150\text{mA}}{400}$ = 0.38mA
+
+$R = \frac{U_{4017}}{I_{B}} = \frac{4.7\text{V}}{0.38\text{mA}}$ = 12.4kOhm
+
+
+
+
+
 ### Printplan:
 <img src="./Bilder/Printplan.png" width="500">
 
