@@ -4,6 +4,10 @@ Die Verarbeitung des Touch-Signals sowie die Stromversorgung der LEDs wird mithi
 ### Schaltplan:
 <img src="./Bilder/Schaltplan.png" width="500">
 
+### Berechnung:
+Q1:
+I_{B} = $$\frac{I_{L}}{h_{}FE} = $$\frac{400mA}{400}
+
 ### Printplan:
 <img src="./Bilder/Printplan.png" width="500">
 
