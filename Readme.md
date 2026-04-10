@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./Bilder/Logo.png" width="150">
+<img src="./Bilder/HTLight_Logo.png" width="200">
 </div>
 
 # **HTLight**
