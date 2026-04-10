@@ -1,39 +1,51 @@
 # Mechanischer Aufbau
 
-## Mechanische  Aussenteile
-Bodenplatte 3D druck:\
+## Bauteilliste
 
-#### IKEA-Schüssel für Standfuß:
-https://www.ikea.com/at/de/search/?q=30081467
+| Bauteil                | Link                                                                 | Stück |
+|------------------------|----------------------------------------------------------------------|-------|
+| Schüssel               | https://www.ikea.com/at/de/search/?q=30081467                       | 1     |
+| Schwanenhals           | https://www.pollin.at/p/schwanenhals-350-mm-in-stahl-chrom-ausfuehrung-gewinde-m8x0-75-630875 | 1     |
+| U-Profil               | –                                                                    | 1     |
+| Bodenplatte            | [Bodenplatte](Bodenplatte_V1.2.FCStd)                                                                    | 1     |
+| U-Profil Abdeckungen   | [Abdeckungen](U-Profil_Abdeckung.FCStd)                                                                    | 1     |
+<br>
 
-#### Schwanenhals:
-Silber:\
-https://www.pollin.at/p/schwanenhals-350-mm-in-stahl-chrom-ausfuehrung-gewinde-m8x0-75-630875 
+# Aufbau
+## Vorbereitung
+### Schüssel:
 
+Schüssel muss noch ausgearbeitet werden.
 
-#### Kopf:
+### 3D-Druck Teile
+Die 3D-Druck Teile müssen ausgetruckt werden und das Stützfilament entfernt.
+Anschließend wird die Versorgungsbuchse in die Bodenplatte eingesetz.
+
+<img src="./Bilder/3D-Druck Teile.jpeg" alt="Maße Quader" width="300">
+
+### U-Profil
 Variante1 (Quader):\
 Aluminium U-Profil mit Tiefe 143mm und folgenden Abmaßen:
 
-<img src="image.png" alt="Maße Quader" width="200">
+<img src="./Bilder/U-Profil_Front.png" alt="Maße Quader" width="200">
 
-Vordere Kappe:\
-Hintere Kappe:
+## Verschraubungen
+### Verschraubung Schüssel-Hals
 
-Variante2 (Zylinder):\
-3D Druck Gehäuse:
+<img src="./Bilder/Schüssel-Hals_Verschraubung.png" alt="Verschraubung-Schüssel-Hals" width="300">
 
-# Aufbau
+### Verschraubung Hals-Kopf
+<img src="./Bilder/Hals-Kopf_Verschraubung.png" alt="Verschraubung-Schüssel-Hals" width="300">
 
-Schüssel muss noch ausgearbeitet werde.
+## Weiter Schritte
+Die Touch-Sensorik Leiterplatte wird auf das Netzteil gesetzt und die Anschlüsse bekommen eine Adernhülse. Anschließend werden die Netz-Versorgungs-Drähte des Netzteils mit den Netz-Anschluss-Drähte geklemt. Die 5V Ausgänge des Netzteil kommen in die Versorgngsklemme der Touch-Sensorik Leiterplatte.
+<br>
+<br>
+Bild:
 
-Bodenplatte: Das Stützmaterial muss entfernt werden, und die Versorgungsbuchse in die Platte eingesetzt.
-Anschließend wird die Vorgefertigte IKEA Schüssel wiefolgt mit dem schwanenals verschraubt.\
-<img src="image-1.png" alt="Verschraubung-Schüssel-Hals" width="300">
+Wenn alles unter der Schüssel verstaut ist, wird die Schüssel mittels Treibschrauben mit der Bodenplatte verschraubt.
+<br>
+<br>
+Im Kopf muss nun die LED-Einheit Leiterplatte eingesetzt werden und mit der Abdeckung verschraubt werden
 
-Nach fertigen der Platine und anschließen aller Drähte und Versorgungsleitungen wird die vorher vorbereitete IKEA Schüssel mit Hals mittels drei Treibschrauben mit der Bodenplatte verschraubt.
-
-Der Lampenkopf wird mit einer Mutter oben an der Kappe festgeschraubt.
-
-
-
+Bild:
