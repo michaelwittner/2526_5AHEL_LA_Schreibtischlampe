@@ -4,11 +4,13 @@ Die Verarbeitung des Touch-Signals sowie die Stromversorgung der LEDs wird mithi
 ### Schaltplan:
 <img src="./Bilder/Schaltplan.png" width="500">
 
-### Berechnung:
+### Berechnung Touch-Sensorik:
 #### Schaltzeit (t)
 $t = 1.1 * R_{1} * C_{1}$ = 1mA
+<br>
+<br>
 
-
+### Berechnung Dimmerschaltung:
 #### Widerstand:
 $h_{FE} = 100-800$  
 $V_{4017} = 4.6V-5V$  
