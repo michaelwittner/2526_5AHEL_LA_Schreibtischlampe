@@ -5,7 +5,7 @@ Die Verarbeitung des Touch-Signals sowie die Stromversorgung der LEDs wird mithi
 <img src="./Bilder/Schaltplan.png" width="500">
 
 ### Berechnung:
-#### Schaltzeit (t)
+#### Schaltzeit (t):  
 $t = 1.1 * R_{1} * C_{1}$
 $t = 1.1 * 220kOhm * 4.7uF$ = 1.14s
 
