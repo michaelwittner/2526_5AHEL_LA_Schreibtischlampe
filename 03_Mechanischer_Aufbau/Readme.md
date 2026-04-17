@@ -14,7 +14,7 @@
 
 # Aufbau
 ## Vorbereitung
-### Schüssel:
+### Boden:
 
 Auf einer Seite der Schüssel muss ein Ausschnitt für die Versorgungsbuchse mit folgenden Maßen ausgefräßt werden:
 <br>
@@ -42,7 +42,7 @@ Anschließend wird die Versorgungsbuchse in die Bodenplatte eingesetz.
 
 <img src="./Bilder/3D-Druck Teile.jpeg" alt="Maße Quader" width="300">
 
-### U-Profil
+### U-Profil für Lampenkopf
 Variante1 (Quader):\
 Aluminium U-Profil mit Tiefe 143mm und folgenden Abmaßen:
 
