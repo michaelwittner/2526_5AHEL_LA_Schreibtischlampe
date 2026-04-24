@@ -11,6 +11,8 @@ Transparente Abdeckung der LED's sinnvoll Planen (ohne Kleben)
 ### Touch-Sensorik
 Ausgangstreiber also Beschaltung nach dem 4017 Baustein verbessern und effizienter machen (ohen Darlington Transistor)
 <br>
+Z.B.: PWM mit variablen Tastverhältnisen.
+<br>
 Ausßerdem kann die Touchsensorik Leiterplatte inklusive Netzteil noch besser mit der Bodenplatte befestigt werden.
 
 ### Moderne Variante der Schaltung
@@ -24,3 +26,5 @@ Der Stecker im Lampenkopf hält nicht gut und sollte enventuell gegen eine ander
 
 ### Galvanischer Verbindung zum Lampenkopf
 Wenn man eine Lampe mit allu U-Profil macht, könnte man dieses noch mit dem restlichen Gehäuse verbinden, um auch dort den Touch aufnehmen zu können.
+
+###
