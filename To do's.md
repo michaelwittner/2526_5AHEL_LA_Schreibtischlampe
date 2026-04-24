@@ -32,4 +32,6 @@ Der Stecker im Lampenkopf hält nicht gut und sollte enventuell gegen eine ander
 ### Galvanischer Verbindung zum Lampenkopf
 Wenn man eine Lampe mit allu U-Profil macht, könnte man dieses noch mit dem restlichen Gehäuse verbinden, um auch dort den Touch aufnehmen zu können.
 
-###
+### Alternativen zu Bauteilen
+* 220V Buchse  https://www.mouser.at/ProductDetail/Schurter/4300.0104?qs=rrS6PyfT74f9dYJbiFYBTw%3D%3D
+* Kabelschuhe  
