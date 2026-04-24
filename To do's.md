@@ -6,6 +6,11 @@ Für die IKEA Schüssel sollte noch eine Sichere Variante der mechanischen Bearb
 ### 3D Druck
 Bodenplattte mit Abdeckplättchen kombinieren
 <br>
+<img src="./Bilder/Abdeckblättchen_neuer_Entwurf.png" width="200">
+<br>
+Mit Boolschen Funktionen und dem IKEA-Schüssel Model ein Plättchen erstellen und mit der fertigen Bodenplatte kombinieren.
+<br>
+<br>
 Transparente Abdeckung der LED's sinnvoll Planen (ohne Kleben)
 
 ### Touch-Sensorik
